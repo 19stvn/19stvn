@@ -6,8 +6,8 @@ Hello, I'm HyeonSik PARK, dreaming of becoming a data scientist
 I am currently interested in ML, and healthcare.
 
 ## ☎️ Contact
-[![Mail](https://img.shields.io/badge/woo990410@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](hyunsik6275@gmail.com)
-[![Mail](https://img.shields.io/badge/sangwoo710@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](vkdi1@naver.com)
+[![Mail](https://img.shields.io/badge/hyunsik6275@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](hyunsik6275@gmail.com)
+[![Mail](https://img.shields.io/badge/vkdi1@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](vkdi1@naver.com)
 
 ## 🛠 Technical Skills
 ### Languages
