@@ -37,6 +37,6 @@ logo=Windows&logoColor=white"/>
 
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| | 2025 | 유튜브 화제 텍스트 탐색 | ML (Classification) | 팀장 | - |
-| | 2025 | Pose Detection 기반 실시간 낙상 감지 시스템 | DL (Computer Vision) | 팀원 | - |
-| | 2025 | 서울시 쿨링포그 스마트 배치 전략 | ML (Classification) | 팀장 | 아이디어상 |
+| 2025 | ML (Classification) | 유튜브 화제 텍스트 탐색 |  팀장 | - |
+| 2025 | DL (Computer Vision) | Pose Detection 기반 실시간 낙상 감지 시스템 |  팀원 | - |
+| 2025 | ML (Classification) | 서울시 쿨링포그 스마트 배치 전략 |  팀장 | 아이디어상 |
