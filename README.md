@@ -6,10 +6,8 @@ Hello, I'm HyeonSik PARK, dreaming of becoming a data scientist
 I am currently interested in ML, and healthcare.
 
 ## ☎️ Contact
-[![Mail](https://img.shields.io/badge/woo990410@gmail.com-e10915?
-style=flat-square&logo=Gmail&logoColor=white)](hyunsik6275@gmail.com)
-[![Mail](https://img.shields.io/badge/sangwoo710@naver.com-03C75A?
-style=flat&logo=Naver&logoColor=white)](vkdi1@naver.com)
+[![Mail](https://img.shields.io/badge/woo990410@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](hyunsik6275@gmail.com)
+[![Mail](https://img.shields.io/badge/sangwoo710@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](vkdi1@naver.com)
 
 ## 🛠 Technical Skills
 ### Languages
@@ -24,9 +22,9 @@ logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE
 logo=Visual Studio Code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
 
 ### Platform
