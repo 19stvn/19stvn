@@ -33,6 +33,7 @@ Currently, the technology of interest is deep learning, and the field is healthc
 | 대회명 | 주관/주최 | Tag | 순위 | 역할 | 기간 | 비고 |
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | Track1 알고리즘 부문 : K리그-서울시립대 공개 AI 경진대회 | DACON/서울시립대 | Regression | Top 10% (86 / 1,740) | 팀장 | 2025.12.01 ~ 2026.01.12 | - | 
+| Predicting Student Test Scores | Kaggle | Regression | Top 10% (311 / 4,317) | - | 2026.01.16 ~ 2026.02.02 | - | 
 
 ## 💻 Project Experience
 
