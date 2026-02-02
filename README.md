@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0f9d58&height=250&section=header&text=WELCOME&fontSize=90&desc=This%20is%2019stvn%20Github&animation=fadeIn&descSize=20&fontAlignY=40&descAlign=70&descAlignY=60)
 
 ## Hi there 👋  
-Hello, I'm Hyunsik Park, dreaming of becoming a data scientist.
+Hello, I'm Hyeonsik Park, dreaming of becoming a data scientist.
 
 Currently, the technology of interest is deep learning, and the field is healthcare.
 
 ## ☎️ Contact
-[![Mail](https://img.shields.io/badge/hyunsik6275@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](hyunsik6275@gmail.com)
+[![Mail](https://img.shields.io/badge/19stvn@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](19stvn@gmail.com)
 [![Mail](https://img.shields.io/badge/vkdi1@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](vkdi1@naver.com)
 
 ## 🛠 Technical Skills
